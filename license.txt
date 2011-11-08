@@ -1,0 +1,6 @@
+Copyright 2011 Robin Lindh Nilsson
+The provided source code is free to use for non-commercial purposes, as long as credit is given to Robinerd.
+Derivative works may not be sold or otherwise used ifor commercial purposes.
+Original source code as well as derivative works may be freely distributed for non-commercial purposes as long as Robinerd is credited.
+The source code provided was developed with good intentions. I share the code for educational purposes and to share knowledge.
+I, Robin Lindh Nilsson aka. Robinerd, take no responsibility for any negative consequences of using the provided source code including but not limited to terrible bugs or blue screens.
